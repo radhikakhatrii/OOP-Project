@@ -1,3 +1,3 @@
 # OOP Project C(++)
-Typing and Racing Game
-Should have SDL installed
+Typing and Racing Game. User should have SDL installed.
+
